@@ -1,0 +1,8 @@
+port: 8080
+
+mongodb:
+ url: mongodb://localhost:27017/test
+  dbName: test
+  usersCollection: users
+  productsCollection: products
+  transationsCollection: transactions
